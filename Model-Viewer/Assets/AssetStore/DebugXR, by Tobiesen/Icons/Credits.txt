@@ -1,0 +1,2 @@
+The icons are created by Papirus Development Team (https://github.com/PapirusDevelopmentTeam).
+License: GPL v3.0

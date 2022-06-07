@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7c93132b18a548e4e864559029595b15
+  m_SerializeEntries:
+  - m_GUID: cb3e3695f955134469060e326beb4695
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534656.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 19719efeec47ca94ead8a3c108de76af
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534657.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 411e59a91ef8e5f4b9b4b867816efe1a
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534658.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 12ee3ee2837ddbc4797a56034f24eb44
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534659.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 782084cf0d03f9a41891d497b043e78b
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534660.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: aa43b83fd279dc44692b88983b35ed4d
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534661.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6b15e78091ad5734eb19deead0846233
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534662.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 308297e0b4dc10742a67cb961b9a8a15
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534663.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7d47e81a0c3d4e044a57993d91c9768d
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534664.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e6fc5a001bfd06e42a2e28b1deae1f28
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534665.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f3334ec1192edb54faaeb51ee467cdd0
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534666.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 63c361f5dbcd44f498246e303916e1b6
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534667.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8366b121a81200c42915b32ad84bbbf5
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534668.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: dc860a623ed8f114aa29281f5cd9e665
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534669.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0baa723eb85d68a4387cd630f167bf50
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534670.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7697bd1806ea15848ba83ee66da1c33f
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534671.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b3ef48af799bea545b0a2be1ee1e55b8
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534672.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ac143e26f05450641b7db145abec6072
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534673.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b3978bdc8c52fd04b9de2b98fabd9d4c
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534674.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8f5e2db4c365d014c96f00c81dee1e07
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534675.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9ebd299d61f695b46890a0758ef7dab4
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534676.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 54f0584180b950d48a80cd7de2764132
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534677.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6c22c7777e1f4fc41b3b28d617d99116
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534678.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f6f52c2c47885ff4395ff4ed4319c16f
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534679.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: af6fb88f7cb7bac42b0b238609a1bd06
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534680.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f0541aac372d5b64898e1ac7afe451b4
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534681.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 142fe8abfb9277f4c8c7a1a2176aebba
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534682.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a9579ac59c7eaf94b90fcff9af97be7b
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534683.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e7c3af96e2688aa4f8189e8892a42814
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534684.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a60bedcc73db09648bb2921b61e3bb83
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534685.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d92614198c8586a42b852b5607ac47f8
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534686.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 20c6a846fa02f944bb4cd4e8f657aabc
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534687.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 220340d5c2a7afe4eaa999da089c8c30
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534688.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bac451cfd5ef7e348b62128f6b3bb060
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534689.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: dd50bc6fdf8ad0e4fbe85df9e3d8752a
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534690.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a9678ae9748fac0489575d2c9eace8e1
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534691.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: da3ad511ac4eb59449d4822f10cc4e6d
+    m_Address: Assets/scans/DICOM_exported/1.2.840.113704.1.111.4352.1577534692.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a413a314323338a47b7da5dd0f82a72c
+    m_Address: Assets/scans/DICOM_exported
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d172ad443cc36ab4aa28acf10a9fbf33
+    m_Address: Assets/StreamingAssets/dicomdata
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3f70362e5fa2fb34fa78613ecdd53914, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7a2bc57e23c64964e94f8245dfd5c171, type: 2}
+    - {fileID: 11400000, guid: 43d533ca10d997c4dae769a063b94fb5, type: 2}

@@ -4,7 +4,7 @@
 #
 *.zip
 *.dcm
-**/Assets/scans/
+**/scans/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
