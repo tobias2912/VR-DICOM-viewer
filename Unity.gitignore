@@ -4,7 +4,7 @@
 #
 *.zip
 *.dcm
-/Model-Viewer/Assets/scans
+**/Assets/scans/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
